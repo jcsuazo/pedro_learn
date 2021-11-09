@@ -1,0 +1,9 @@
+.container {
+  display: flex;
+  justify-content: center;
+}
+.doors {
+  width: 200px;
+  height: 200px;
+  margin-left: 20px;
+}
